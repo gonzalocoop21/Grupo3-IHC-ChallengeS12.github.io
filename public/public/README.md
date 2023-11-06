@@ -19,7 +19,7 @@ Segmentos Objetivo:
 -Doctores voluntarios de medicina general y/u otras especialidades
 
 Principales Caracteristicas del producto:
--
+-a
 
 
 Link de la página en Github:
