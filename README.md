@@ -8,32 +8,6 @@ Landeo Mendez, Erick Dominick U202216187
 Laupa Soncco, Fernando Leoni U202215693
 
 
-Integrantes:
-Córdova Gonzales, Gonzalo Agustín U20221C712
-Herrera González, Luis Eduardo U202218227
-Hurtado Amado, Franco Joel U202216194
-Landeo Mendez, Erick Dominick U202216187
-Laupa Soncco, Fernando Leoni U202215693
-
-
-
-
-
-Integrantes:
-Córdova Gonzales, Gonzalo Agustín U20221C712
-Herrera González, Luis Eduardo U202218227
-Hurtado Amado, Franco Joel U202216194
-Landeo Mendez, Erick Dominick U202216187
-Laupa Soncco, Fernando Leoni U202215693
-
-
-Integrantes:
-Córdova Gonzales, Gonzalo Agustín U20221C712
-Herrera González, Luis Eduardo U202218227
-Hurtado Amado, Franco Joel U202216194
-Landeo Mendez, Erick Dominick U202216187
-Laupa Soncco, Fernando Leoni U202215693
-
 
 
 Startup: 
