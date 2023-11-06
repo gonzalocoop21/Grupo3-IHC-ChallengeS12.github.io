@@ -22,5 +22,5 @@ Principales Caracteristicas del producto:
 -a
 
 
-Link de la página en Github:
+Link de la página en Github: [https://gonzalocoop21.github.io/Grupo3-IHC-ChallengeS12.github.io/public/public/index.html]
 
