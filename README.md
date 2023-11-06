@@ -7,12 +7,7 @@ Hurtado Amado, Franco Joel U202216194
 Landeo Mendez, Erick Dominick U202216187
 Laupa Soncco, Fernando Leoni U202215693
 
-Integrantes:
-Córdova Gonzales, Gonzalo Agustín U20221C712
-Herrera González, Luis Eduardo U202218227
-Hurtado Amado, Franco Joel U202216194
-Landeo Mendez, Erick Dominick U202216187
-Laupa Soncco, Fernando Leoni U202215693
+
 
 Startup: 
 Somos un grupo de programadores y emprendedores apasionados que lideran MedicVerse, una startup dedicada a transformar la atención médica. Nuestro objetivo es revolucionar la forma en que las personas acceden a servicios médicos de alta calidad. A través de nuestra plataforma innovadora, brindamos consultas médicas a distancia de manera rápida y sencilla. Con MedicVerse, puedes conectarte con médicos altamente calificados en cualquier momento y lugar, evitando esperas y viajes innecesarios. 
