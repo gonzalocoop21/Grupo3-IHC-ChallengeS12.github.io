@@ -16,6 +16,7 @@ VitalCore, se ha diseñado cuidadosamente para ofrecer soluciones médicas de ca
 
 Segmentos Objetivo:
 -Pacientes con poca disponibilidad para llevar a cabo consultas médicas
+
 -Doctores voluntarios de medicina general y/u otras especialidades
 
 Principales Caracteristicas del producto:
