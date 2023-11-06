@@ -15,7 +15,9 @@ Producto:
 VitalCore, se ha diseñado cuidadosamente para ofrecer soluciones médicas de calidad en situaciones no urgentes. Al proporcionar un canal accesible y seguro para consultas en línea, los usuarios pueden recibir orientación y recomendaciones iniciales sobre sus inquietudes de salud desde la comodidad de su hogar. Estas consultas básicas son abordadas por profesionales médicos altamente capacitados, quienes, en caso de ser necesario, pueden derivar al paciente a especialistas en un hospital para un diagnóstico y tratamiento más especializado.
 
 Segmentos Objetivo:
+
 -Pacientes con poca disponibilidad para llevar a cabo consultas médicas
+
 -Doctores voluntarios de medicina general y/u otras especialidades
 
 Principales Caracteristicas del producto:
