@@ -27,18 +27,6 @@ Link de la página en Github: https://gonzalocoop21.github.io/Grupo3-IHC-Challen
 
 ENTRAR A LA RAMA DEVELOP
 
-Segmentos Objetivo:
-
--Pacientes con poca disponibilidad para llevar a cabo consultas médicas
-
--Doctores voluntarios de medicina general y/u otras especialidades
-
-Principales Caracteristicas del producto:
--
-Integrantes:
-Córdova Gonzales, Gonzalo Agustín U20221C712
-Herrera González, Luis Eduardo U202218227
-Hurtado Amado, Franco Joel U202216194
 Landeo Mendez, Erick Dominick U202216187
 Laupa Soncco, Fernando Leoni U202215693
 
