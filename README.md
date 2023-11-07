@@ -20,7 +20,7 @@ Segmentos Objetivo:
 
 -Doctores voluntarios de medicina general y/u otras especialidades
 
-Principales Caracteristicas del producto: 
+Principales Caracteristicas del producto:  
 -Brindamos a los usuarios la capacidad de programar citas médicas en línea de manera sencilla y en tiempo real, lo que elimina la necesidad de largas esperas en clínicas u hospitales. Además, nuestra plataforma permite a los usuarios mantener un historial médico digital completo y seguro.
 -Hemos integrado la comunicación directa (videollamada) con especialistas de salud, lo que permite a los usuarios aclarar dudas, discutir resultados de exámenes, etc. Esto garantiza una atención más accesible y personalizada. 
 -Nuestra solución se distingue por su atractivo diseño visual, que combina estética con simplicidad para mejorar la usabilidad y la navegación. 
